@@ -1,4 +1,4 @@
-#Hello mate, I am Tiago Bellas 👋
+Hello mate, I am Tiago Bellas 👋
 
 Welcome to my GitHub!
 
