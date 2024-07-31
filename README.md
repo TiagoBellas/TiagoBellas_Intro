@@ -8,8 +8,12 @@ I am a Senior Data Analyst & Data Scientist passionate about uncovering valuable
 
 ## Projects
 
-### [Data Science Project | Project_Stock_Sentiment_Classification](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
+### [Data Science Project | Stock_Sentiment_Classification](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
 The goal of this project is to develop an NLP model capable of predicting market sentiment based on tweets. In summary, using NLP techniques, the model must be able to classify tweets received as input and predict, for each tweet, whether it describes a Bearish (0), Bullish (1), or Neutral (2) attitude.
+
+
+### [Data Science Project | Melanoma Tumor Detection](https://github.com/TiagoBellas/Data_Science_Project_Melanoma_Tumor_Detection)
+This is an Academic project of Data Science Pos Degree which involves Convolutional Neural Network (CNN) using the Keras framework that can accurately detect and classify Melanoma Tumors
 
 
 ### [Data Science Project | Automobile Insurance Portfolio](https://github.com/TiagoBellas/Insurance-Price-Predict)
