@@ -6,6 +6,13 @@ Welcome to my GitHub!
 
 I am a Senior Data Analyst & Data Scientist passionate about uncovering valuable insights from complex datasets. My professional journey has been marked by years of solid experience working on a diverse range of projects, including marketing, operations, sales, quality assurance, data & reporting, portfolio management, and many other areas. These projects have involved direct and indirect contributions to various aspects of data-driven decision-making.
 
+## Contats
+
+- [LinkedIn](https://www.linkedin.com/in/tiagobellas/)
+- [Email](mailto:etrblund@gmail.com)
+
+Thanks for your visit! 🚀
+
 ## Projects
 
 ### [Data Science Project | Stock_Sentiment_Classification](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
@@ -47,12 +54,3 @@ This is an academic project presented in the Data Science Postgraduate Program, 
 - Simulation of 10000 scenarios for the inflation rate curve and CPI index
 - For each scenario above, calculation the ILB cash flows and estimate their fair value
 - Estimative and analyse the inflation linked bond price distribution, including interest rate and inflation risk measures.
-
-
-## Contats
-
-- [LinkedIn](https://www.linkedin.com/in/tiagobellas/)
-- [Email](mailto:etrblund@gmail.com)
-
-Thanks for your visit! 🚀
-
