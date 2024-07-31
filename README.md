@@ -4,12 +4,12 @@ Welcome to my GitHub!
 
 ## About me
 
-I am a senior data analyst and data scientist passionate about uncovering valuable insights from complex datasets. My professional journey has been marked by years of solid experience working on a diverse range of projects, including marketing, operations, sales, quality assurance, data & reporting, portfolio management, and many other areas. These projects have involved direct and indirect contributions to various aspects of data-driven decision-making.
+I am a Senior Data Analyst & Data Scientist passionate about uncovering valuable insights from complex datasets. My professional journey has been marked by years of solid experience working on a diverse range of projects, including marketing, operations, sales, quality assurance, data & reporting, portfolio management, and many other areas. These projects have involved direct and indirect contributions to various aspects of data-driven decision-making.
 
 ## Projects
 
 ### [Data Science Project | Project_Stock_Sentiment_Classification](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
-
+The goal of this project is to develop an NLP model capable of predicting market sentiment based on tweets. In summary, using NLP techniques, the model must be able to classify tweets received as input and predict, for each tweet, whether it describes a Bearish (0), Bullish (1), or Neutral (2) attitude.
 
 
 ### [Data Science Project | Automobile Insurance Portfolio](https://github.com/TiagoBellas/Insurance-Price-Predict)
