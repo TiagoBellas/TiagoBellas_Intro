@@ -8,13 +8,17 @@ I am a senior data analyst and data scientist passionate about uncovering valuab
 
 ## Projects
 
+### [Data Science Project | Project_Stock_Sentiment_Classification]([https://github.com/TiagoBellas/Insurance-Price-Predict](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
+
+
+
 ### [Data Science Project | Automobile Insurance Portfolio](https://github.com/TiagoBellas/Insurance-Price-Predict)
 This project contains data and analyses related to the automotive insurance portfolio and its claims. The goal is to build models that can predict insurance prices and analyze claim trends.
 
 
 
 ### [Data Science Project | Asset and Portfolio Management](https://github.com/TiagoBellas/Computational_Finance_for_Asset_and_Portfolio_Management)
-This is a Academic project of Data Science Pos Degree which involves investigating the empirical properties of financial market returns using US stock market data and testing the performance of various portfolio investment strategies.
+This is an Academic project of Data Science Pos Degree which involves investigating the empirical properties of financial market returns using US stock market data and testing the performance of various portfolio investment strategies.
 
 
 
@@ -28,12 +32,17 @@ An unnamed company provides estimates of house prices to customers. However, the
 
 
 
-### [Data Science Project | Houses Price Prediction](https://github.com/TiagoBellas/Data_Science_Project_Loans_Default_Prediction)
+### [Data Science Project | Loans Default Prediction](https://github.com/TiagoBellas/Data_Science_Project_Loans_Default_Prediction)
 Lending Club is an American peer-to-peer lending company, which provides an online platform that connects borrowers and investors. By cutting out the traditional banking protocol, it aims to provide loans at a lower interest rate. However, the risk of borrowers defaulting (i.e., being charged off) on loans is an ever-present concern, as is the need to better understand their customer base for optimized loan offering and risk mitigation.
 
 
 
-
+### [Data Science Project | Fixed Income Securities](https://github.com/TiagoBellas/Data_Science_Project_for_Fixed_Income)
+This is an academic project presented in the Data Science Postgraduate Program, which consists:
+- Computation the accrued interest
+- Simulation of 10000 scenarios for the inflation rate curve and CPI index
+- For each scenario above, calculation the ILB cash flows and estimate their fair value
+- Estimative and analyse the inflation linked bond price distribution, including interest rate and inflation risk measures.
 
 
 ## Contats
