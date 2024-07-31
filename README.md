@@ -8,7 +8,7 @@ I am a senior data analyst and data scientist passionate about uncovering valuab
 
 ## Projects
 
-### [Data Science Project | Project_Stock_Sentiment_Classification]([https://github.com/TiagoBellas/Insurance-Price-Predict](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
+### [Data Science Project | Project_Stock_Sentiment_Classification](https://github.com/TiagoBellas/Data_Science_Project_Stock_Sentiment_Classification)
 
 
 
