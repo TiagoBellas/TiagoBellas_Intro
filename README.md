@@ -23,7 +23,7 @@ The goal of this project is to develop an NLP model capable of predicting market
 This is an Academic project of Data Science Pos Degree which involves Convolutional Neural Network (CNN) using the Keras framework that can accurately detect and classify Melanoma Tumors
 
 
-### [Data Science Project | Automobile Insurance Portfolio](https://github.com/TiagoBellas/Insurance-Price-Predict)
+### [Data Science Project | Automobile Insurance Portfolio Price Prediction](https://github.com/TiagoBellas/Insurance-Price-Predict)
 This project contains data and analyses related to the automotive insurance portfolio and its claims. The goal is to build models that can predict insurance prices and analyze claim trends.
 
 
